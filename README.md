@@ -1,8 +1,7 @@
 ## Skills Interface
 
 <img src="home.png" width=50% height=50%>
-
-![Skills](home.png)
+<!-- ![Skills](home.png) -->
             
      Figure-1: Interface of the Skills App.
 

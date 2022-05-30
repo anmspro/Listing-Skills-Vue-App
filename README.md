@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+## Skills Interface
+
+![Skills](Images/home.png)
+            
+     Figure-1: Interface of the Skills App.
+
 # vue-skills
 
 ## Project setup
